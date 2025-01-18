@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: type mismatches between function parameters and arguments. The `bug.ts` file shows the erroneous code, attempting to pass an array to a function expecting a string.  The `bugSolution.ts` file provides a corrected version.
